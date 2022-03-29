@@ -2,9 +2,13 @@
 
 I'm a mechanical engineer from Poli-USP graduated in 2021. I'm currently interested in data science applications for business and finance. I use GitHub mainly for my graduation projects, as well as for online courses I take. 
 
-- 💼 Currently working at [Nobli](nobli.com.br)
+- 💼 Currently working at [QuantumBlack, a McKinsey Company](https://www.quantumblack.com/)
+- Previously worked as: 
+  - Risk Analyst Intern @[Nobli](nobli.com.br)
+  - Data Science Intern @[XP inc](xpi.com.br)
+  - Performance Marketing Intern @[Mobly](mobly.com.br)
 
-- 📓 Currently studying **Convolutional Neural Networks** applied in Eletrical Impedance Tomography for my bachelor's thesis.
+<!-- - 📓 Currently studying **Convolutional Neural Networks** applied in Eletrical Impedance Tomography for my bachelor's thesis. -->
 
 - 📫 How to reach me **lucashattoric@gmail.com**
 
